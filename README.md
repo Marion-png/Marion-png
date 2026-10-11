@@ -1,10 +1,4 @@
-<!-- ============================================================
-  GITHUB PROFILE README
-  Replace every YOUR_... placeholder below with your own info.
-  Delete any skill icons or sections you don't need.
-============================================================= -->
-
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Dan Justine Marion L. Cole</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -20,14 +14,10 @@
 
 ## 🙋 About Me
 
-- 🎓 I'm a **YOUR_ROLE** (e.g. IT student / web developer / designer) based in **YOUR_CITY**
-- 🔭 Currently working on **YOUR_CURRENT_PROJECT**
+- 🎓 I'm an IT Student based in Davao City
 - 🌱 Currently learning **YOUR_CURRENT_LEARNING**
-- 💬 Ask me about **YOUR_TOPICS**
-- 📫 Reach me at **YOUR_EMAIL**
-- ⚡ Fun fact: **YOUR_FUN_FACT**
-
----
+- 📫 Reach me at dcole_230000000807@uic.edu.ph  
+- ⚡ Fun fact: Matcha Lover
 
 ## 🛠️ Skills
 
@@ -43,7 +33,7 @@
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel&perline=9" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel&perline=9" alt="Backend" />
 </p>
 
 ### 🗄️ Databases
@@ -53,7 +43,7 @@
 
 ### 🧰 Tools & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,vercel&perline=9" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,vercel&perline=9" alt="Tools" />
 </p>
 
 ### 🖌️ Design
@@ -61,28 +51,6 @@
   <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=9" alt="Design" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| **Project One** | Short description of what it does | React, Node.js, MongoDB | [Code](https://github.com/YOUR_USERNAME/project-one) · [Live](https://your-demo-link.com) |
-| **Project Two** | Short description of what it does | Python, Django, PostgreSQL | [Code](https://github.com/YOUR_USERNAME/project-two) |
-| **Project Three** | Short description of what it does | HTML, CSS, JavaScript | [Code](https://github.com/YOUR_USERNAME/project-three) · [Live](https://your-demo-link.com) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -92,13 +60,13 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:dcole_230000000807@uic.edu.ph" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://YOUR_PORTFOLIO_SITE" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+  <a href="https://www.facebook.com/justinemarion.cole" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
